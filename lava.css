@@ -1,0 +1,94 @@
+body{
+    background-image :"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intiguspharma.com%2F&psig=AOvVaw3CuwwIYukDybBYV1k0qsOG&ust=1682864174216000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCz9Najz_4CFQAAAAAdAAAAABAE";
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+HEADER{
+    HEIGHT:200PX;
+    BACKGROUND:YELLOW;
+    DISPLAY:FLEX;
+    justify-content:SPACE-AROUND;
+    ALIGN-ITEMS:CENTER;
+}
+UL{
+    DISPLAY:FLEX;
+    LIST-STYLE-TYPE:NONE;
+    aign-items:center;
+
+}
+UL LI A{
+    PADDING:0 20PX;
+    TEXT-DECORATION:NONE;
+    COLOR:PURPLE;
+}
+MAIN{
+    DISPLAY:FLEX;
+    BORDER:BLACK;
+    HEIGHT:CALC(100VH - 100PX);
+    ALIGN-ITEMS:CENTER;
+    JUSTIFY-CONTENT:CENTER;
+
+}
+
+
+}
+
+main H1{
+    font-size:80px;
+    color:aqua;
+    text-transform uppercase;
+margin-top: 0px;
+}
+main H2{
+    font-size:40px;
+    font-weight:400;
+    color:rgb(255, 119, 0);
+    text-transform uppercase;
+margin-top: auto;
+}
+main p{
+    font-size:20px;
+    font-weight:400;
+    color:black;
+    line-height:32.5px;
+    margin:90px 0;
+
+
+}
+.BUT{
+    padding:15px 20px;
+    background:orange;
+    color:white;
+    outline:none;
+    border:none;
+font-weight:600px;
+text-transform:uppercase;
+border-radius:50px;
+
+
+}
+.SIGNUP-BTN{
+padding:15px 20px;
+background:orange;
+color:white;
+outline:none;
+border:none;
+font-weight:600px;
+text-transform:uppercase;
+border-radius:50px;
+}
+
+.CONTENTLEFT{
+    margin-top:40px ;
+font-size: medium;
+}
+
+
+.head{
+    font-size: 30px;
+    color: darkblue;
+    margin-left: 50px;
+    margin-top: 100px;;
+}
